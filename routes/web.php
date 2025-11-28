@@ -4,7 +4,9 @@ use Illuminate\Support\Facades\Route;
 
 //GET
 Route::get('/', function () {
-    return 'Main Page';
+    return view('index', [
+        'name' => 'Umair'
+    ]);
 });
 
 Route::get('/xxxx', function () {
