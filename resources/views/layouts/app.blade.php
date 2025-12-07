@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel 10 Task List App</title>
+        <title>Laravel 12 Task Manager App</title>
     </head>
 
     <body>
